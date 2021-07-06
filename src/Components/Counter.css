@@ -1,0 +1,11 @@
+table {
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+#value {
+  color: gray;
+  font-size: 100px;
+}
